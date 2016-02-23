@@ -18,7 +18,7 @@ namespace Micro.Q1
     }
 
     [TestClass]
-    public class UnitTest1
+    public class MicrosoftQ
     {
         [TestMethod]
         public void Scenario_1()
